@@ -1,5 +1,3 @@
-# Richard la Ruina
-</br>14.04.2023 ~
 ## Description du fichier
 * **assets** - Contient des données telles que des images et des fichiers audio.
 
