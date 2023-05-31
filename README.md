@@ -1,5 +1,4 @@
 # Richard la Ruina
-![GitHub](https://img.shields.io/github/license/GreenScreen410/GreenBot-Discord?style=flat-square) ![GitHub package.json version](https://img.shields.io/github/package-json/v/GreenScreen410/GreenBot-Discord?style=flat-square) ![node-current](https://img.shields.io/node/v/discord.js?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenScreen410/GreenBot-Discord?style=flat-square) [![CodeFactor](https://www.codefactor.io/repository/github/greenscreen410/greenbot-discord/badge)](https://www.codefactor.io/repository/github/greenscreen410/greenbot-discord)
 </br>14.04.2023 ~
 ## Description du fichier
 * **assets** - Contient des données telles que des images et des fichiers audio.
@@ -18,8 +17,8 @@
 
 * **package.json** - Fichiers liés aux packages npm.
 
-## Q&A
-> Q: 왜 파일을 불러올 때 path 모듈도 같이 사용하나요?
+## Q&R
+> Q : Pourquoi utilisez-vous également le module path lors du chargement de fichiers ?
 
-A: 그린Bot은 v1.9.0부터 TypeScript로 변경되게 되었고, 이에 따라 자바스크립트로의 컴파일 과정이 필요해졌습니다.<br>
-컴파일 시에는 dist 라는 폴더가 생기게 되는데, 폴더 경로가 고장날 수 있으므로 path 모듈을 사용하였습니다.
+R : Richard la Ruina a été remplacé par TypeScript depuis la version 1.9.0 et, par conséquent, un processus de compilation vers JavaScript est requis.<br>
+Lors de la compilation, un dossier appelé dist est créé, mais le module path a été utilisé car le chemin du dossier pouvait être rompu.
