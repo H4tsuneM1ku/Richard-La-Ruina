@@ -1,6 +1,6 @@
 # Richard la Ruina
-</br> Dernière mise à jour le 14.04.2023 ~
-
+![GitHub](https://img.shields.io/github/license/h4tsunem1ku/richard-la-ruina?style=flat-square) ![GitHub package.json version](https://img.shields.io/github/package-json/v/h4tsunem1ku/richard-la-ruina?style=flat-square) ![node-current](https://img.shields.io/node/v/discord.js?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/h4tsunem1ku/richard-la-ruina?style=flat-square) [![CodeFactor](https://www.codefactor.io/repository/github/h4tsunem1ku/richard-la-ruina/badge)](https://www.codefactor.io/repository/github/h4tsunem1ku/richard-la-ruina)
+</br> Dernière mise à jour le 14.04.2023
 ## Description des dossiers
 * **assets** - Contient des données telles que des images et des fichiers audio.
 
