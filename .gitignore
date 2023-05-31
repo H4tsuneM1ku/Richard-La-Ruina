@@ -6501,3 +6501,5 @@ node_modules/.bin/node-which
 node_modules/.bin/acorn.ps1
 node_modules/.bin/acorn.cmd
 node_modules/.bin/acorn
+.env
+.env
