@@ -1,4 +1,8 @@
-## Description du fichier
+# Richard la Ruina
+
+</br> Dernière mise à jour le 14.04.2023 ~
+
+## Description des dossiers
 * **assets** - Contient des données telles que des images et des fichiers audio.
 
 * **commands** - Contient des commandes slash. Toutes les commandes sous forme de texte ont été supprimées.
