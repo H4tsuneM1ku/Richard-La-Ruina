@@ -12,7 +12,7 @@
 
 * **.gitignore** - Contient les fichiers à ignorer lors du téléchargement sur Github. Ce fichier n'affecte pas l'exécution du bot.
 
-* **index.js** - Ce fichier est utilisé pour exécuter le bot.
+* **index.ts** - Ce fichier est utilisé pour exécuter le bot.
 
 * **package-lock.json** - Il s'agit du fichier lié au package npm.
 
