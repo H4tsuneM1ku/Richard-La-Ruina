@@ -1,5 +1,4 @@
 # Richard la Ruina
-
 </br> Dernière mise à jour le 14.04.2023 ~
 
 ## Description des dossiers
